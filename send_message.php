@@ -32,7 +32,7 @@ try {
     //Recipients
     $mail->setFrom($email, $name);
     $mail->addAddress('enquiries@macro-it.net', 'MACRO-IT');     //Add a recipient
-    $mail->addAddress('chewe@macro-it.net');               //Name is optional
+    $mail->addAddress('MACRO-IT');               //Name is optional
     $mail->addReplyTo($email, $name);
     $mail->addCC('chanda@macro-it.net');
     $mail->addBCC('chanda@macro-it.net');
