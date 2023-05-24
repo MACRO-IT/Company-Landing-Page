@@ -21,11 +21,11 @@ try {
     //Server settings
     $mail = new PHPMailer();
     $mail->isSMTP();
-    $mail->Host = 'sandbox.smtp.mailtrap.io';
+    $mail->Host = $_ENV['MAIL_HOST'];
     $mail->SMTPAuth = true;
     $mail->Port = 2525;
-    $mail->Username = 'df9295f8544401';
-    $mail->Password = 'eae007bb30ec8c';
+    $mail->Username = $_ENV['MAIL_USERNAME'];
+    $mail->Password = $_ENV['MAIL_PASSWORD'];
 
     //Recipients
     $mail->setFrom($email, $name);

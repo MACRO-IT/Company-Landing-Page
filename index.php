@@ -731,21 +731,21 @@
 
   <!-- ======= Footer ======= -->
   <footer id="footer">
-
+<!--
     <div class="footer-newsletter">
       <div class="container">
         <div class="row justify-content-center">
           <div class="col-lg-6">
             <h4>Join Our Newsletter</h4>
             <p>Subscribe to our weekly news letter to recieve notification of our new softwares and the new upgade features to our existing softwares. </p>
-            <form action="" method="post">
+            <form action="news_letter.php" method="post">
               <input type="email" name="email"><input type="submit" value="Subscribe">
             </form>
           </div>
         </div>
       </div>
     </div>
-
+              -->
     <div class="footer-top">
       <div class="container">
         <div class="row">
