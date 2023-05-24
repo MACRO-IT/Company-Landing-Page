@@ -7,7 +7,7 @@ use PHPMailer\PHPMailer\PHPMailer;
 use PHPMailer\PHPMailer\SMTP;
 use PHPMailer\PHPMailer\Exception;
 
-//Get the message submited Sanitize and validated it
+//Get the message submited Sanitize and validate it
 $message = htmlspecialchars(trim($_POST['message']));
 $name = htmlspecialchars($_POST['name']);
 $subject = htmlspecialchars($_POST['subject']);
@@ -46,7 +46,10 @@ try {
     $mail->AltBody = $message;
 
     $mail->send();
-    echo 'Message has been sent';
+    echo 'OK';
 } catch (Exception $e) {
     echo "Message could not be sent. Mailer Error: {$mail->ErrorInfo}";
 }
+
+
+
