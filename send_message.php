@@ -3,6 +3,8 @@
 //These must be at the top of your script, not inside a function
 //Load Composer's autoloader
 require 'vendor/autoload.php';  
+$dotenv = Dotenv\Dotenv::createImmutable(__DIR__);
+$dotenv->load();
 use PHPMailer\PHPMailer\PHPMailer;
 use PHPMailer\PHPMailer\SMTP;
 use PHPMailer\PHPMailer\Exception;

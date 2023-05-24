@@ -1,5 +1,16 @@
 {
+    
+    "license": "GPL",
+   
+    "authors": [
+      {
+        "name": "Chanda Chewe",
+        "email": "chewec03@gmail.com"
+      }
+    ],
+
     "require": {
+        "php": "^8.1",
         "phpmailer/phpmailer": "^6.8",
         "vlucas/phpdotenv": "^5.5"
     },

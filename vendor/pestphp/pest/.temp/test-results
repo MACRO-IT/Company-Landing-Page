@@ -1,1 +1,1 @@
-{"version":"pest_2.6.1","defects":[],"times":{"P\\Tests\\Feature\\ExampleTest::__pest_evaluable_example":0.002,"P\\Tests\\Unit\\ExampleTest::__pest_evaluable_example":0.002,"P\\Tests\\DotEnvTest::__pest_evaluable_it_asserts_DotEnv_is_working_Fine":0.015}}
+{"version":"pest_2.6.1","defects":[],"times":{"P\\Tests\\Feature\\ExampleTest::__pest_evaluable_example":0.002,"P\\Tests\\Unit\\ExampleTest::__pest_evaluable_example":0,"P\\Tests\\DotEnvTest::__pest_evaluable_it_asserts_DotEnv_is_working_Fine":0.017}}
