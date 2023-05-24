@@ -672,19 +672,19 @@
               <div class="address">
                 <i class="bi bi-geo-alt"></i>
                 <h4>Location:</h4>
-                <p>A108 Adam Street, New York, NY 535022</p>
+                <p>Katima Mulilo road, Olympia, Lusaka </p>
               </div>
 
               <div class="email">
                 <i class="bi bi-envelope"></i>
                 <h4>Email:</h4>
-                <p>info@example.com</p>
+                <p>info@macro-it.net</p>
               </div>
 
               <div class="phone">
                 <i class="bi bi-phone"></i>
                 <h4>Call:</h4>
-                <p>+1 5589 55488 55s</p>
+                <p>+260...</p>
               </div><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.0054766500055!2d28.266881214488256!3d-15.427161961107635!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2sSun%20Share%20Buildings!5e0!3m2!1sen!2s!4v1662754521574!5m2!1sen!2s" frameborder="0" style="border:0; width: 100%; height: 290px;" allowfullscreen></iframe>
 
 
@@ -753,11 +753,11 @@
           <div class="col-lg-3 col-md-6 footer-contact">
             <h3>MACRO-IT</h3>
             <p>
-              A108 Adam Street <br>
-              New York, NY 535022<br>
-              United States <br><br>
-              <strong>Phone:</strong> +1 5589 55488 55<br>
-              <strong>Email:</strong> info@example.com<br>
+              Katima Mulilo rod<br>
+              Olympia<br>
+              Lusaka <br><br>
+              <strong>Phone:</strong> +260....<br>
+              <strong>Email:</strong> info@macro-it.net<br>
             </p>
           </div>
 
