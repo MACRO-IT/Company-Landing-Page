@@ -6,7 +6,7 @@
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
   <title>MACRO-IT::HOME</title>
-  <meta content="accounting software, human resource software, loan management software, invertory software, loan management software, payments gateway, system integrations" name="description">
+  <meta content="accounting software, human resource software, loan management software, inventory software, loan management software, payments gateway, system integrations" name="description">
   <meta content="" name="keywords">
 
   <!-- Favicons -->
@@ -56,8 +56,10 @@
           -->
           <li class="dropdown"><a href="#"><span>Softwares</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
-              <li><a href="#">Accounting software</a></li>
-              <li><a href="#">Human Resource Software</a></li>
+             
+              <li><a href="#">Loan Management Software</a></li>
+               <li><a href="#">Bulk SMS Platform</a></li>
+                <li><a href="#">School Management System</a></li>
              
             </ul>
           </li>
@@ -80,7 +82,7 @@
           <h2>Easy for you to work with in order to manage and maintain records of your business or organisation</h2>
           <div class="d-flex justify-content-center justify-content-lg-start">
            
-            <a href="videos/LANDING_PAGE.mp4" class="glightbox btn-watch-video"><i class="bi bi-play-circle"></i><span>Watch Video</span></a>
+            <a href="" class="glightbox btn-watch-video"><i class="bi bi-play-circle"></i><span>Watch Video</span></a>
           </div>
         </div>
         <div class="col-lg-6 order-1 order-lg-2 hero-img" data-aos="zoom-in" data-aos-delay="200">
@@ -139,18 +141,20 @@
         <div class="row content">
           <div class="col-lg-6">
             <p>
-              MACRO-IT is a SaaS Company which provides software management solutions to multiple types of industries. MACRO-IT offers cloud-based software management systems meaning that these systems will sit on MACROIT servers or shared servers and can be accessed by anyone anywhere. Featured softwares include;
+             MACRO-IT is a SaaS company that provides cloud-based software solutions tailored for various industries. Our systems are hosted on secure MACRO-IT servers, allowing users to access them from anywhere at any time.
             </p>
             <ul>
-              <li><i class="ri-check-double-line"></i> Accounting Software</li>
-              <li><i class="ri-check-double-line"></i> Human Resource and Payroll Management Software</li>
+              <li><i class="ri-check-double-line"></i>Loan Management System</li>
+               <li><i class="ri-check-double-line"></i>Human resource & Payroll Management Software</li>
+              <li><i class="ri-check-double-line"></i>Bulk SMS Platform</li>
+               <li><i class="ri-check-double-line"></i>School Management System, Etc</li>
               
             </ul>
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0">
             <p>
-              We contribute to FinTech industries and work closely with ISP industry providers which supports our development and design efforts.<br><br>
-              Our developers are highly skilled engineers rigorously trained in web, app, and software development experienced in identifying programming bugs, analyzing misbehaving server activities and improving website speed.
+             We support the FinTech sector and collaborate closely with Internet Service Providers (ISPs) to enhance our development and design capabilities.<br/><br/>
+             Our team consists of highly skilled engineers with strong expertise in web, mobile, and software development. They are proficient in debugging code, analyzing server performance issues, and optimizing website speed for better user experience.
             </p>
             <!--
             <a href="#" class="btn-learn-more">Learn More</a>
@@ -162,62 +166,59 @@
     </section><!-- End About Us Section -->
 
     <!-- ======= Why Us Section ======= -->
-    <section id="why-us" class="why-us section-bg">
-      <div class="container-fluid" data-aos="fade-up">
+<section id="why-us" class="why-us section-bg">
+  <div class="container-fluid" data-aos="fade-up">
 
-        <div class="row">
+    <div class="row">
 
-          <div class="col-lg-7 d-flex flex-column justify-content-center align-items-stretch  order-2 order-lg-1">
+      <div class="col-lg-7 d-flex flex-column justify-content-center align-items-stretch  order-2 order-lg-1">
 
-            <div class="content">
-              <h3>Code<strong>-Audit</strong></h3>
-              <p>
-                Your product will only deliver a seamless user experience if built correctly. Our code review process ensures a fine-tuned product from its very core without bugs in production.
-              </p>
-            </div>
+        <div class="content">
+          <h3>Software <strong>Development</strong></h3>
+          <p>
+            We specialize in building custom software tailored to your business needs from mobile apps to full scale enterprise systems. Whether you're starting from scratch or improving an existing solution, our team delivers secure, scalable, and user friendly software.
+          </p>
+        </div>
 
-            <div class="accordion-list">
-              <ul>
-                <li>
-                  <a data-bs-toggle="collapse" class="collapse" data-bs-target="#accordion-list-1"><span>01</span>What is a code review? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
-                  <div id="accordion-list-1" class="collapse show" data-bs-parent=".accordion-list">
-                    <p>
-                      Code review is the deliberate and methodical gathering of programmers to examine each other's code for errors. Softwares are created by people. As a result, that same software is frequently filled with errors; this is a clear association because it is human nature to make mistakes. Hence when your organisation creates a software  
-                      <br>we follow up with a Code Quality Review where we list all the issues and describe them to the fullest, identifying the critical ones and categorizing them. We close the process with an Assessment stage where we list all recommended fixes and provide an estimate of the resources needed to implement them. 
-                    </p>
-                  </div>
-                </li>
+        <div class="accordion-list">
+          <ul>
+            <li>
+              <a data-bs-toggle="collapse" class="collapse" data-bs-target="#accordion-list-1"><span>01</span>What kind of software do you develop? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+              <div id="accordion-list-1" class="collapse show" data-bs-parent=".accordion-list">
+                <p>
+                  We develop a wide range of custom software solutions including mobile applications (Android & iOS), web platforms, internal business tools, portals, and enterprise systems. Our team works closely with you to understand your workflow and deliver software that simplifies operations and adds value to your business.
+                </p>
+              </div>
+            </li>
 
-                <li>
-                  <a data-bs-toggle="collapse" data-bs-target="#accordion-list-2" class="collapsed"><span>02</span> How much does a code review cost? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
-                  <div id="accordion-list-2" class="collapse" data-bs-parent=".accordion-list">
-                    <p>
-                      Depending on your project needs, consider the average working time on your product from 2 weeks to 2 months. However, we have to evaluate the project complexity and the workscope to provide you with an exact estimate.
-                    </p>
-                  </div>
-                </li>
+            <li>
+              <a data-bs-toggle="collapse" data-bs-target="#accordion-list-2" class="collapsed"><span>02</span>How long does custom software take to build? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+              <div id="accordion-list-2" class="collapse" data-bs-parent=".accordion-list">
+                <p>
+                  Timelines vary based on the project scope and complexity. A basic app may take 3–6 weeks, while more advanced systems could take several months. After a free consultation, we’ll give you a clear project timeline with milestones and deliverables.
+                </p>
+              </div>
+            </li>
 
-                <li>
-                  <a data-bs-toggle="collapse" data-bs-target="#accordion-list-3" class="collapsed"><span>03</span> What is the purpose of a code audit? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
-                  <div id="accordion-list-3" class="collapse" data-bs-parent=".accordion-list">
-                    <p>
-                      A Code audit is an integral part of the software development lifecycle. It allows developers to improve code quality dramatically.
-                   <br> 
-                   The purpose is to find areas of improvement or bugs on that might otherwise go unnoticed at an early stage and get in the way of your products performance. The code review process typically happens before pushing the software to production.
-                    </p>
-                  </div>
-                </li>
-
-              </ul>
-            </div>
-
-          </div>
-
-          <div class="col-lg-5 align-items-stretch order-1 order-lg-2 img" style='background-image: url("assets/img/why-us.png");' data-aos="zoom-in" data-aos-delay="150">&nbsp;</div>
+            <li>
+              <a data-bs-toggle="collapse" data-bs-target="#accordion-list-3" class="collapsed"><span>03</span>Do you provide ongoing support after development? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+              <div id="accordion-list-3" class="collapse" data-bs-parent=".accordion-list">
+                <p>
+                  Absolutely. We offer post-launch support, maintenance, and continuous updates to keep your software secure, fast, and relevant. Our team is available for future improvements, integrations, and scalability as your business evolves.
+                </p>
+              </div>
+            </li>
+          </ul>
         </div>
 
       </div>
-    </section><!-- End Why Us Section -->
+
+      <div class="col-lg-5 align-items-stretch order-1 order-lg-2 img" style='background-image: url("assets/img/why-us.png");' data-aos="zoom-in" data-aos-delay="150">&nbsp;</div>
+    </div>
+
+  </div>
+</section><!-- End Why Us Section -->
+
 
     <!-- ======= Skills Section ======= 
     <section id="skills" class="skills">
@@ -279,14 +280,14 @@
         <div class="section-title">
           <h2>Services</h2>
           <p>
-            Our Software packages systems are high-performing, feature-packed and digitally transformative, designed to be user-friendly, fully functional, very secure and able to scale as your enterprise grows. Examples of system packages includes;</p>
+            Our Software packages systems are high performing, feature packed and digitally transformative, designed to be user friendly, fully functional, very secure and able to scale as your enterprise grows. Examples of system packages includes:</p>
         </div>
 
         <div class="row">
           <div class="col-xl-3 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
             <div class="icon-box">
               <div class="icon"><i class="bx bxl-dribbble"></i></div>
-              <h4><a href="">Payment Systems intergrations</a></h4>
+              <h4><a href="">Payment Systems integrations</a></h4>
               <p>Integrated payment systems work by streamlining the payment acceptance process and integrating automatic payment acceptance.</p>
             </div>
           </div>
@@ -684,7 +685,7 @@
               <div class="phone">
                 <i class="bi bi-phone"></i>
                 <h4>Call:</h4>
-                <p>+260...</p>
+                <p>+260769891754</p>
               </div><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.0054766500055!2d28.266881214488256!3d-15.427161961107635!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2sSun%20Share%20Buildings!5e0!3m2!1sen!2s!4v1662754521574!5m2!1sen!2s" frameborder="0" style="border:0; width: 100%; height: 290px;" allowfullscreen></iframe>
 
 
@@ -753,11 +754,11 @@
           <div class="col-lg-3 col-md-6 footer-contact">
             <h3>MACRO-IT</h3>
             <p>
-              Katima Mulilo rod<br>
+              Katima Mulilo road<br>
               Olympia<br>
               Lusaka <br><br>
-              <strong>Phone:</strong> +260....<br>
-              <strong>Email:</strong> info@macro-it.net<br>
+              <strong>Phone:</strong> +260769891754<br>
+              <strong>Email:</strong> info@macroit.org<br>
             </p>
           </div>
 
@@ -808,7 +809,7 @@
         <!-- You can delete the links only if you purchased the pro version. -->
         <!-- Licensing information: https://bootstrapmade.com/license/ -->
         <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/arsha-free-bootstrap-html-template-corporate/ -->
-        Designed by <a href="https://macro-it.net/">MACRO-IT</a>
+        Designed by <a href="https://macroit.org/">MACRO-IT</a>
       </div>
 
     
