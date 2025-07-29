@@ -58,7 +58,7 @@
             <ul>
              
               <li><a href="#">Loan Management Software</a></li>
-               <li><a href="#">Bulk SMS Platform</a></li>
+               <li><a href="https://swiftsms.macroit.org">Bulk SMS Platform</a></li>
                 <li><a href="#">School Management System</a></li>
              
             </ul>
